@@ -21,18 +21,19 @@
 lang: en-US
 title: Mid-Hudson Maker Hub
 email: info@mhmakerhub.com
+email_list_signup: https://forms.gle/NjABpL2HVc3FW1CR6
 description: >-
    "Connecting a community of makers, offering educational and collaborative events,"
    "with an aim to create a physical makerspace."
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: http://www.mhmakerhub.com
-author:
-  name:
-  twitter:
-  picture:
+# author:
+#   name:
+#   twitter:
+#   picture:
 twitter_username:
 github_username: mhmakerhub
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: assets/images/mhmh.webp # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
@@ -53,6 +54,8 @@ plugins: # previsously gems
   - jekyll-paginate
 feed:
   path: atom.xml
+timezone: America/New_York
+future: true
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -82,6 +85,11 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+collections:
+  events:
+    output: true
+    permalink: /:collection/:year-:month-:day-:title/
+
 # Front Matter Defaults
 defaults:
   # _posts
@@ -91,3 +99,10 @@ defaults:
     values:
       layout: post
       read_time: true
+  # events
+  - scope:
+      path: "_events"
+      type: events
+    values:
+      layout: post
+      read_time: false
