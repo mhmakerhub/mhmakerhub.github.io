@@ -16,10 +16,10 @@ introduction: |
   - ✔ Determine interest in the area
   - ✔ Start assembling a group of interested organizers
   - ✔ Create a name, email list
+  - ✔ Find places to hold events until we have our own space
 
   To do:
-  
-  - Find places to hold events until we have our own space
+  - Grow the active community through regular events
   - Obtain non-profit status
   - Find prospective places for a permanent home
   - Find the necessary support to build out the makerspace

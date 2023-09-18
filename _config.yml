@@ -104,5 +104,5 @@ defaults:
       path: "_events"
       type: events
     values:
-      layout: post
+      layout: event
       read_time: false
