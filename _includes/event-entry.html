@@ -20,7 +20,7 @@
   <footer class="entry-meta">
     <ul>
     {% if event.event_date %}
-      <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ event.date | date_to_xmlschema }}">{{ event.date | date: "%B %-d, %Y" }}</time></li>
+      <li><span class="icon">{% include icon-calendar.svg %}</span>{% if event.ongoing %}Starting {% else %}On {% endif %}<time class="entry-time" datetime="{{ event.event_date | date_to_xmlschema }}">{{ event.event_date | date: "%B %-d, %Y" }}</time></li>
     {% else %}
       <li><span class="icon">{% include icon-calendar.svg %}</span>Coming soon!</li>
     {% endif %}
