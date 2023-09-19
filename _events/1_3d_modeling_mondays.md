@@ -23,6 +23,10 @@ Every other Monday, join our community of beginners and experts alike. Whether y
 
 **No experience? No problem!**  Newcomers will be directed to helpful tutorials, and there'll always be someone eager to assist if you hit a snag. If you don't have your own laptop, the library's got you covered.
 
+**To get started with Blender**, try out [the classic donut tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD).
+
+**To get started with Fusion 360**, try out [this tutorial](https://www.youtube.com/watch?v=d3qGQ2utl2A).
+
 <br/><br/>
 
 Sign up for our [email list]({{site.email_list_signup}}) to receive updates about this and other events!
