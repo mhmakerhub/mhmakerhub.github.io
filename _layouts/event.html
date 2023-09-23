@@ -24,6 +24,14 @@ layout: default
           {% if page.ongoing %}Starting {% else %}On {% endif %}
           <time datetime="{{ page.event_date | date_to_xmlschema }}">{{ page.event_date | date: "%B %-d, %Y at %R" }}</time></span>
       </p>
+      {% elsif page.event_dates %}
+      <p class="entry-meta">
+        <span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span>
+        {% for date in page.event_dates %}
+          {% if forloop.first %}<time class="entry-time" datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>{% endif %}
+          {% if forloop.last %}, <time class="entry-time" datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>{% endif %}
+        {% endfor %}
+      </p>
       {% else %}
       <p class="entry-meta">
         <span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span>Coming soon!</span>

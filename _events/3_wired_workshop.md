@@ -6,6 +6,9 @@ tags:
   - class
   - electronics
   - robotics
+event_dates: [2023-10-12T18:00ET, 2023-11-07T18:00ET]
+location: Desmond-Fish Library
+location_link: https://maps.app.goo.gl/wUtCMem9kUDZWBfv6
 ---
 
 Embark on a journey into the electrifying world of **electronics and robotics**!  Each session kicks off with an engaging presentation or skill-building tutorial: from learning the art of surface mount soldering, getting started with Arduino, or diving deep into a creator's showcase with "How I Built This."
