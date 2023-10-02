@@ -15,7 +15,7 @@ location_link: https://maps.app.goo.gl/j1TBoWZkJQPRThVU7
 Dive into the world of 3D modeling with 
 [Blender](https://www.youtube.com/watch?v=BnY2JdBrvaI)
 and
-[Fusion 360](https://www.youtube.com/watch?v=BnY2JdBrvaI) – two powerful, free programs used in animation, video games, visual effects, 3D printing, mechanical engineering, and beyond. While these tools boast incredible capabilities, they can sometimes seem daunting to newcomers.
+[Fusion 360](https://www.autodesk.com/products/fusion-360/features) – two powerful, free programs used in animation, video games, visual effects, 3D printing, mechanical engineering, and beyond. While these tools boast incredible capabilities, they can sometimes seem daunting to newcomers.
 
 That's where we come in!
 
