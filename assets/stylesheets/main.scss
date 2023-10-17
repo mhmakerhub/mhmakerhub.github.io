@@ -4,10 +4,20 @@
 
 @charset "utf-8";
 
+$background-color: #e8e6e6 !default;
+$base-color: #1a5e1e !default;
+$text-color: #656565 !default;
+$accent-color: #1a5e1e !default;
+$code-background-color: #00f !default;
+$border-color: #f00 !default;
+$overlay-color: #0f0 !default;
+
 // Theme skin
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+
 
 // Customization: Space out the call to action buttons.
 .btn {
