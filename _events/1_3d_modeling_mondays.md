@@ -1,7 +1,7 @@
 ---
 title: "3D Modeling Mondays"
 sub_title: Every other Monday
-event_dates: [2023-10-30T18:00ET, 2023-11-13T18:00ET, 2023-11-27T18:00ET]
+event_dates: [2023-11-13T18:00ET, 2023-11-27T18:00ET]
 ongoing: true
 tags:
   - event
