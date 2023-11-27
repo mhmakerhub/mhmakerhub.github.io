@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 lang: en-US
-title: Mid-Hudson Maker Hub
+title: Makerdale
 email: info@mhmakerhub.com
 email_list_signup: https://forms.gle/NjABpL2HVc3FW1CR6
 description: >-
-   "Connecting a community of makers, offering educational and collaborative events,"
-   "with an aim to create a physical makerspace."
+   Connecting a community of makers, offering educational and collaborative events,
+   with the aim of creating a physical makerspace.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: http://www.mhmakerhub.com
 # author:

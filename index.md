@@ -1,11 +1,11 @@
 ---
 layout: home
-alt_title: "Welcome to the Mid-Hudson Maker Hub"
-sub_title: "Maker Community and (soon) a Makerspace!"
+alt_title: "Welcome to Makerdale"
+sub_title: "A non-profit Maker Community and (soon) a Makerspace!"
 image: # TODO
 introduction: |
   
-  The Mid-Huson Maker Hub is a non-profit organization with the goals of:
+  Makerdale is a non-profit organization in the Beacon/Philipstown, NY area with the goals of:
   
   - Connecting the maker community
   - Offering educational, networking, and collaborative events
