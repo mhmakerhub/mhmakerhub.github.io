@@ -20,21 +20,21 @@
 
 lang: en-US
 title: Makerdale
-email: info@mhmakerhub.com
+email: info@makerdale.com
 email_list_signup: https://forms.gle/NjABpL2HVc3FW1CR6
 description: >-
    Connecting a community of makers, offering educational and collaborative events,
    with the aim of creating a physical makerspace.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://www.mhmakerhub.com
+url: http://www.makerdale.com
 # author:
 #   name:
 #   twitter:
 #   picture:
 discord_invite: a39CNMxbUE
 twitter_username:
-instagram_username: mhmakerhub
-github_username: mhmakerhub
+instagram_username: makerdale.hv
+github_username: makerdale
 logo: assets/images/logo.png # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
