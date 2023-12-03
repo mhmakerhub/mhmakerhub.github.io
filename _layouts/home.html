@@ -8,7 +8,13 @@ layout: default
   <div class="index inner">
     <div>{{ content }}</div>
 
-    {% if site.events.size > 0 %}
+    <div>
+      <header class="section-title">
+        <h2>{{ site.data.theme.t.events }}</h2>
+      </header>
+      <h3><a href="https://www.eventbrite.com/o/makerdale-75608872023">See all upcoming events on our Eventbrite page!</a></h3>
+
+    <!-- {% if site.events.size > 0 %}
     <div>
       <header class="section-title">
         <h2>{{ site.data.theme.t.events }}{% if paginator.page > 1 %}{{ site.data.theme.t.page | default: 'Page' |
@@ -28,7 +34,7 @@ layout: default
         {% endif %}
       </div>
     </div>
-    {% endif %}
+    {% endif %} -->
 
     {% if site.posts.size > 0 %}
     <div>

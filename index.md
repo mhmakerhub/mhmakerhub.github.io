@@ -7,9 +7,10 @@ introduction: |
   
   Makerdale is a non-profit organization in the Beacon/Philipstown, NY area with the goals of:
   
-  - Connecting the maker community
-  - Offering educational, networking, and collaborative events
-  - Creating a physical makerspace with space and equipment for making!
+  - **Creating a makerspace:** a well-equipped makerspace that provides the necessary space and tools to fuel creativity and innovation.
+  - **Facilitating educational workshops:** to learn or advance creative skills.
+  - **Fostering creative collaboration:** for collaborative projects, mutual inspiration and support.
+  - **Enabling Expert-Led Instruction:** Provide a venue where skilled professionals can share their expertise through paid teaching opportunities.
 
   Done:
 

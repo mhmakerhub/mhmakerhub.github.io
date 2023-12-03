@@ -6,7 +6,7 @@ tags:
   - class
   - electronics
   - robotics
-event_dates: [2023-11-07T18:00ET, 2023-11-21T18:00ET, 2023-12-12T18:00ET]
+event_dates: [2023-11-07T18:00ET, 2023-11-21T18:00ET]
 location: Desmond-Fish Library
 location_link: https://maps.app.goo.gl/wUtCMem9kUDZWBfv6
 ---
