@@ -29,12 +29,12 @@ introduction: |
 actions:
   - label: "Sign up for email updates"
     icon: email
-    url: "https://forms.gle/NjABpL2HVc3FW1CR6"
-  - label: "Help out or get invovled"
+    url: http://eepurl.com/iBaSO2
+  - label: "Help out or get involved"
     icon: hand
     url: "/help"
   - label: "Email us"
     icon: email
-    url: "mailto:info@mhmakerhub.com"
+    url: "mailto:info@makerdale.com"
 entries_layout: grid
 ---
