@@ -33,6 +33,6 @@ description: A monthly event for project sharing and collaboration.
 </p>
 
 <script type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
-<zapier-interfaces-page-embed page-id='cm1lmkbxu001uzuyclslp01hk' no-background='true'  style='max-width: 900px; height: 625px;'></zapier-interfaces-page-embed>
+<zapier-interfaces-page-embed page-id='cm1lmkbxu001uzuyclslp01hk' no-background='true'  style='max-width: 900px; height: 650px;'></zapier-interfaces-page-embed>
 
 {% include contact-form.html %}
