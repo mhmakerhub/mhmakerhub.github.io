@@ -26,7 +26,6 @@ description: >-
    Connecting a community of makers, offering educational and collaborative events,
    with the aim of creating a physical makerspace.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://www.makerdale.com
 # author:
 #   name:
 #   twitter:
@@ -47,13 +46,8 @@ algolia:
 
 # Build settings
 markdown: kramdown
-# https://github.com/mmistakes/jekyll-theme-basically-basic
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+theme: 
 plugins: # previsously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
 feed:
   path: atom.xml
 timezone: America/New_York
@@ -88,23 +82,20 @@ exclude:
   - /example # ignore Basically Basic dev site
 
 collections:
-  events:
-    output: true
-    permalink: /:collection/:year-:month-:day-:title/
 
 # Front Matter Defaults
 defaults:
-  # _posts
+  - scope:
+      path: ""
+    values:
+      layout: default
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
       read_time: true
-  # events
   - scope:
-      path: "_events"
-      type: events
+      path: "assets/images/gallery"
     values:
-      layout: event
-      read_time: false
+      image_col: gallery
