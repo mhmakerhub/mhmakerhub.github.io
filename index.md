@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-subtitle: "A non-profit Maker Community and (soon) a Makerspace!"
+subtitle: "A Maker Community and (soon) a Makerspace!"
 ---
 
 {%
@@ -14,7 +14,7 @@ subtitle: "A non-profit Maker Community and (soon) a Makerspace!"
 
 <h1 class="display-1 my-5 text-center">WELCOME TO MAKERDALE</h1>
 
-<p class="text-center fs-5 mb-5">A non-profit community of makers building a makerspace in the Beacon/Philipstown, NY area.</p>
+<p class="text-center fs-5 mb-5">A community of makers building a makerspace in the Beacon, NY area.</p>
 
 <div class="info-cards">
   <div class="info-card">

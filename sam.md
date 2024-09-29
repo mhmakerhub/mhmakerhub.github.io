@@ -25,7 +25,7 @@ description: A monthly event for project sharing and collaboration.
     can bring your own equipment to work on your project. There is also some limited equipment at the studio that
     you can use with advance permission from Jonas, such as 3d printers, CNC machines, and a very cool laser lathe
     that Jonas built himself. Any questions about the event? Drop us a line via the contact form at the bottom of this
-    page or via an email to <a href="mailto:info@makerdale.com">info@makerdale.com</a>.
+    page or via an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 </p>
 <p class="mb-5 px-5">
     Excited to join? We're excited to see you there! Fill out your email in the form below to get an invite to the

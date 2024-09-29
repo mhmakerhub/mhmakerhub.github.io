@@ -5,6 +5,14 @@
 .navbar-brand {
     color: $body-color;
     letter-spacing: .15rem;
+    display: flex;
+
+    img.brand-logo {
+        width: 40px;
+        height: 40px;
+        margin: 10px 0.5rem 0px 0px;
+        flex: 0 1 auto;
+    }
 
     span {
         color: var(--bs-secondary-color);
