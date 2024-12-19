@@ -8,7 +8,7 @@ subtitle: "A Maker Community and (soon) a Makerspace!"
   link_href="sam.html"
   image_url="/assets/images/PXL_20240227_010201430.jpg"
   title="SHOW-ASK-MAKE"
-  date_time="Thursday Dec. 19th, 6:30 PM"
+  date_time="Thursday Jan. 23rd, 6:30 PM"
   description="A monthly share of your latest project."
 %}
 

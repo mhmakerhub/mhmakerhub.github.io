@@ -7,13 +7,13 @@ description: A monthly event for project sharing and collaboration.
     include event-card.html
     image_url="/assets/images/PXL_20240227_010201430.jpg"
     title="SHOW-ASK-MAKE"
-    date_time="Thursday Dec. 19th, 6:30 PM"
+    date_time="Thursday Jan. 23rd, 6:30 PM"
     description="A monthly share of your latest project."
 %}
 
 <p class="mt-5 px-5">Location: Lightsome Studios, 605 Broadway, Newburgh, NY</p>
 
-<p class="mb-5 px-5">Time: Thursday, Dec. 19th, 6:30 PM</p>
+<p class="mb-5 px-5">Time: Thursday, Jan. 23rd, 6:30 PM</p>
 
 <p class="mb-5 px-5">
     Show-Ask-Make, or SAM, is our monthly event series where we hang out and talk shop. Want advice 
